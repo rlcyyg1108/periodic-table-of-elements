@@ -1,0 +1,13 @@
+{
+	"name": "rlcyyg-periodic-table-of-elements",
+	"version": "0.0.1",
+	"title": "periodic table of elements",
+	"author": "rlcyyg1108",
+	"contact": "yzy_0920@qq.com",
+	"homepage": "https://github.com/rlcyyg1108/periodic-table-of-elements",
+	"description": "This is a dependency mod\nAdded all elements of the periodic table",
+	"factorio_version": "2.0",
+	"dependencies": [
+        "? space-age"
+    ]
+}
